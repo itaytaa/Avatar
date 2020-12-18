@@ -1,0 +1,10 @@
+.circle {
+    border-radius: 50%;
+    border: 5px solid lightgray;
+    margin:20px;
+}
+
+.square {
+    border: 5px solid lightgray;
+    margin:20px;
+}
